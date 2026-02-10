@@ -36,7 +36,7 @@ sistema-bancario-java/
 1. compile o projeto
 javac src/Main.java
 
-2.Execute a aplicação:
+2. Execute a aplicação:
 java -cp src Main
 
 
