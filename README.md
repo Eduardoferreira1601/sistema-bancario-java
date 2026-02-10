@@ -23,33 +23,34 @@ O sistema é executado via terminal e simula operações básicas de uma conta b
 
 sistema-bancario-java/
 ├── src/
-│ ├── model/
-│ │ └── ContaBancaria.java
-│ ├── service/
-│ │ └── BancoService.java
-│ └── Main.java
+│   ├── model/
+│   │   └── ContaBancaria.java
+│   ├── service/
+│   │   └── BancoService.java
+│   └── Main.java
 └── README.md
 
 
 ## Como Executar o Projeto
 
-1. Compile o projeto:
-```bash
+1. compile o projeto
 javac src/Main.java
 
-Execute a aplicação:
+2.Execute a aplicação:
 java -cp src Main
 
-Objetivo do Projeto
+
+
+## Objetivo do Projeto
 Este projeto foi desenvolvido com fins educacionais, com o objetivo de consolidar conhecimentos em:
 
-Java básico
-Programação Orientada a Objetos
-Organização de projetos
-Controle de versão com Git
-Publicação de projetos no GitHub
+•Java básico
+•Programação Orientada a Objetos
+•Organização de projetos
+•Controle de versão com Git
+•Publicação de projetos no GitHub
 
-Autor
+## Autor
 Carlos Eduardo
 Estudante de Engenharia de Software
 GitHub: Eduardoferreira1601
