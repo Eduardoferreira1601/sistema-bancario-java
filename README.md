@@ -44,11 +44,11 @@ java -cp src Main
 ## Objetivo do Projeto
 Este projeto foi desenvolvido com fins educacionais, com o objetivo de consolidar conhecimentos em:
 
--Java básico
--Programação Orientada a Objetos
--Organização de projetos
--Controle de versão com Git
--Publicação de projetos no GitHub
+- Java básico
+- Programação Orientada a Objetos
+- Organização de projetos
+- Controle de versão com Git
+- Publicação de projetos no GitHub
 
 ## Autor
 Carlos Eduardo
