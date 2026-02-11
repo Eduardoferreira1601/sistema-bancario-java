@@ -22,13 +22,13 @@ O sistema é executado via terminal e simula operações básicas de uma conta b
 ## Estrutura do Projeto
 
 sistema-bancario-java/
-├── src/
-│   ├── model/
-│   │   └── ContaBancaria.java
-│   ├── service/
-│   │   └── BancoService.java
-│   └── Main.java
-└── README.md
+ ├── src/
+ │   ├── model/
+ │   │   └── ContaBancaria.java
+ │   ├── service/
+ │   │   └── BancoService.java
+ │   └── Main.java
+ └── README.md
 
 
 ## Como Executar o Projeto
